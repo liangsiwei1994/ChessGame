@@ -71,7 +71,7 @@ All you need is a compiler that is able to compile c++ program. :)
    ```
 7. In the same path, run the program using
    ```js
-   .\chess
+   ./chess
    ```
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
