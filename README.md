@@ -100,7 +100,7 @@ SiWei - liang_siwei@hotmail.com
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-Use this space to list resources you find helpful and would like to give credit to. I've included a few of my favorites to kick things off!
+Credits to setter of the project and the readme template designer vi-dev0.
 
 * [Professor William Knottenbelt](https://www.imperial.ac.uk/people/w.knottenbelt)
 * Tom Crossland - t.crossland22@imperial.ac.uk
